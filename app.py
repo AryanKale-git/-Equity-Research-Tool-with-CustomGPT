@@ -26,7 +26,7 @@ llm = HuggingFaceEndpoint(
 
 chat_llm = ChatGroq(
     temperature=0,
-    groq_api_key='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',
+    groq_api_key=' ',
     model="llama-3.3-70b-versatile"
 )
 
