@@ -1,0 +1,10 @@
+streamlit
+bcrypt
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+huggingface_hub
+faiss-cpu
+tiktoken
+pickle-mixin
